@@ -53,6 +53,10 @@ python --version
 Python 3.11.1  
 ```
 
+#### Deactivate
+
+Just **deactivate** on exit code session
+
 ## Install Django
 
 ```bash
@@ -161,3 +165,4 @@ Invoke-WebRequest -Uri $source -OutFile $destination
 ```
 
 ... Hey wizards, do magic things now ;)
+
